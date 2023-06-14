@@ -5,3 +5,5 @@
 ```javascript
 console.log("Hello World");
 ```
+- [x] Yes
+- [ ] No
